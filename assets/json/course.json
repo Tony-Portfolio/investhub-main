@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1, 
+        "title": "Flutter: Advance Skill Development",
+        "description": "All platform development with flutter",
+        "rating": 5,
+        "price": 500,
+        "author": "Wiem Kiev",
+        "viewer": 909890,
+        "hours": 120,
+        "level": "All Level",
+        "last_update": " 23/06/2023",
+        "image": "https://www.gstatic.com/webp/gallery3/1.sm.png",
+        "info": [
+            "You will learn how to leverage the power of Python to solve tasks.",
+            "You will build games and programs that use Python libraries.",
+            "You will be able to use Python for your own work problems or personal projects."
+        ]
+    },
+    {
+        "id": 2, 
+        "title": "Flutter: Advance Skill Development",
+        "description": "All platform development with flutter",
+        "rating": 5,
+        "price": 500,
+        "author": "Wiem Kiev",
+        "viewer": 909890,
+        "hours": 120,
+        "level": "All Level",
+        "last_update": " 23/06/2023",
+        "image": "https://www.gstatic.com/webp/gallery3/3.sm.png",
+        "info": [
+            "You will learn how to leverage the power of Python to solve tasks.",
+            "You will build games and programs that use Python libraries.",
+            "You will be able to use Python for your own work problems or personal projects."
+        ]
+    },
+    {
+        "id": 3, 
+        "title": "Flutter: Advance Skill Development",
+        "description": "All platform development with flutter",
+        "rating": 5,
+        "price": 500,
+        "author": "Wiem Kiev",
+        "viewer": 909890,
+        "hours": 120,
+        "level": "All Level",
+        "last_update": " 23/06/2023",
+        "image": "https://www.gstatic.com/webp/gallery3/1.sm.png",
+        "info": [
+            "You will learn how to leverage the power of Python to solve tasks.",
+            "You will build games and programs that use Python libraries.",
+            "You will be able to use Python for your own work problems or personal projects."
+        ]
+    },
+    {
+        "id": 4, 
+        "title": "Flutter: Advance Skill Development",
+        "description": "All platform development with flutter",
+        "rating": 5,
+        "price": 500,
+        "author": "Wiem Kiev",
+        "viewer": 909890,
+        "hours": 120,
+        "level": "All Level",
+        "last_update": " 23/06/2023",
+        "image": "https://www.gstatic.com/webp/gallery3/3.sm.png",
+        "info": [
+            "You will learn how to leverage the power of Python to solve tasks.",
+            "You will build games and programs that use Python libraries.",
+            "You will be able to use Python for your own work problems or personal projects."
+        ]
+    },
+    {
+        "id": 5, 
+        "title": "Flutter: Advance Skill Development",
+        "description": "All platform development with flutter",
+        "rating": 5,
+        "price": 500,
+        "author": "Wiem Kiev",
+        "viewer": 909890,
+        "hours": 120,
+        "level": "All Level",
+        "last_update": " 23/06/2023",
+        "image": "https://www.gstatic.com/webp/gallery3/1.sm.png",
+        "info": [
+            "You will learn how to leverage the power of Python to solve tasks.",
+            "You will build games and programs that use Python libraries.",
+            "You will be able to use Python for your own work problems or personal projects."
+        ]
+    }
+]
+  
